@@ -1,0 +1,21 @@
+.container-fluid{
+    background-image: url(https://imgs.search.brave.com/CR_GJZocJLVenU0mIpIgZApMRE9gPN1794wH-v-_yDI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAyLzk4LzkwLzc0/LzM2MF9GXzI5ODkw/NzQwNl9NUFd3d0xY/a05HRFFqYlg2OVBw/WXVFMWkyRVpudHFz/Ni5qcGc);
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+.container-fluid h1{
+     font-family: 'Times New Roman', serif;
+     font-weight: bold;
+}   
+.row{
+    color: white;
+    font-style: italic;
+} 
+.co{
+    color: white;  
+}
+.p1{
+    width: 22px;
+    height: 22px;
+}
